@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="mad.easychinese.gameMenu">
+
+
+    <android.support.percent.PercentRelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        app:layout_widthPercent="50%"
+        android:background="@drawable/instruction"
+        android:layout_centerVertical="true">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/start"
+            android:id="@+id/buttonStartGame"
+            android:onClick="start"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_widthPercent="80%"
+            app:layout_heightPercent="60%"
+            app:layout_marginTopPercent="15%"
+            android:id="@+id/textViewInstruction"
+         android:layout_centerHorizontal="true"
+
+            android:text="@string/instrucion"
+            android:scrollbars = "vertical"/>
+
+    </android.support.percent.PercentRelativeLayout>
+
+    <android.support.percent.PercentRelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        app:layout_widthPercent="50%"
+        app:layout_marginLeftPercent="50%"
+        android:layout_centerVertical="true"
+        android:background="@drawable/leaderboard">
+
+        <ListView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_widthPercent="70%"
+            app:layout_heightPercent="60%"
+            app:layout_marginTopPercent="43%"
+            android:id="@+id/listViewLearderBoard"
+            android:layout_centerHorizontal="true" />
+
+
+    </android.support.percent.PercentRelativeLayout>
+</android.support.percent.PercentRelativeLayout>

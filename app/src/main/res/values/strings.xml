@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">EasyChinese</string>
+
+
+    <string name="lesson">LESSON</string>
+    <string name="stroke">STROKE</string>
+    <string name="quiz">GAME</string>
+    <string name="reminders">REMINDERS</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="Set">Set</string>
+
+
+    <string-array name="animal">
+        <item>Bear</item>
+        <item>Bird</item>
+        <item>Cat</item>
+        <item>Cow</item>
+        <item>Deer</item>
+        <item>Dog</item>
+        <item>Donkey</item>
+        <item>Duck</item>
+        <item>Elephant</item>
+        <item>Fish</item>
+        <item>Goose</item>
+        <item>Horse</item>
+        <item>Jaguar</item>
+        <item>Lion</item>
+        <item>Monkey</item>
+        <item>Mouse</item>
+        <item>Pig</item>
+        <item>Rabbit</item>
+        <item>Sheep</item>
+        <item>Tiger</item>
+
+    </string-array>
+
+    <string-array name="fruit">
+        <item>Apricot</item>
+        <item>Banana</item>
+        <item>Coconut</item>
+        <item>Date</item>
+        <item>Mango</item>
+        <item>Melon</item>
+        <item>Orange</item>
+        <item>Peach</item>
+        <item>Pear</item>
+        <item>Persimmon</item>
+        <item>Plum</item>
+        <item>Tangerine</item>
+    </string-array>
+
+    <string-array name="school">
+        <item>Book</item>
+        <item>Chair</item>
+        <item>Desk</item>
+        <item>Knife</item>
+        <item>Light</item>
+        <item>Paper</item>
+        <item>Pen</item>
+        <item>Pin</item>
+        <item>Ring</item>
+        <item>Ruler</item>
+
+    </string-array>
+
+    <string-array name="plant">
+        <item>Bamboo</item>
+        <item>Maple</item>
+        <item>Grass</item>
+        <item>Chrysanthemum</item>
+        <item>Orchid</item>
+        <item>Leaf</item>
+        <item>Lily</item>
+        <item>Plum</item>
+        <item>Sunflower</item>
+        <item>Tree</item>
+
+    </string-array>
+
+    <string-array name="page1">
+        <item>Animal</item>
+        <item>Fruit</item>
+        <item>School</item>
+    </string-array>
+
+    <string-array name="page2">
+        <item>Plant</item>
+        <item>Coming Soon</item>
+    </string-array>
+
+
+    <string name="image">Image</string>
+    <string name="description">Description</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="Save">Save</string>
+    <string name="start">START!!</string>
+
+    <string name="instrucion"><b>Instruction</b>\n\n1.	The game consist of 15 questions.\n2.	Each of the question has 5 option allow you to choose. Choose the correct one!\n3.	The time for answering each question is 30 seconds only. Time is score!\n4.	The faster you are, the higher mark you can get! For the correct answer.\n5.	As you answer the question correctly, you marks will be accumulated.\n6.	Each of the player is given by 5 hearts, 1 heart will be deducted if you choose the wrong answer.\n7.	By the time you lost all your hearts, sorry. GAME OVER!\n8.	The higher the total mark you get, the higher chance to place you in the leader board. </string>
+
+<string name="dev">Developer</string>
+</resources>

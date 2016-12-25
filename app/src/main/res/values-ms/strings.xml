@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">EasyChinese</string>
+
+
+    <string name="lesson">PELAJARAN</string>
+    <string name="stroke">STROK</string>
+    <string name="quiz">PERMAINAN</string>
+    <string name="reminders">PERINGATAN</string>
+    <string name="Date">Tarikh</string>
+    <string name="Time">Masa</string>
+    <string name="Set">Set</string>
+
+
+    <string-array name="animal">
+        <item>Beruang</item>
+        <item>Bird</item>
+        <item>Burung</item>
+        <item>Lembu</item>
+        <item>Rusa</item>
+        <item>Anjing</item>
+        <item>Keldai</item>
+        <item>Itik</item>
+        <item>Gajah</item>
+        <item>Ikan</item>
+        <item>Angsa</item>
+        <item>Kuda</item>
+        <item>Harimau Bintang</item>
+        <item>Singa</item>
+        <item>Monyet</item>
+        <item>Tikus</item>
+        <item>Khinzir</item>
+        <item>Arnab</item>
+        <item>Kambing</item>
+        <item>Harimau</item>
+
+    </string-array>
+
+    <string-array name="fruit">
+        <item>Aprikot</item>
+        <item>Pisang</item>
+        <item>Kelapa</item>
+        <item>Jujube</item>
+        <item>Mangga</item>
+        <item>Kundur</item>
+        <item>Oren</item>
+        <item>Pic</item>
+        <item>Buah Pear</item>
+        <item>Kesemak</item>
+        <item>Buah Plum</item>
+        <item>Limau</item>
+    </string-array>
+
+    <string-array name="school">
+        <item>Buku</item>
+        <item>Kerusi</item>
+        <item>Meja</item>
+        <item>Pisau</item>
+        <item>Lampu</item>
+        <item>Kertas</item>
+        <item>Pen</item>
+        <item>Pin</item>
+        <item>Loceng</item>
+        <item>Pembaris</item>
+
+    </string-array>
+
+    <string-array name="plant">
+        <item>Buluh</item>
+        <item>Maple</item>
+        <item>Rumput</item>
+        <item>Kekwa</item>
+        <item>Orkid</item>
+        <item>Daun</item>
+        <item>Teratai</item>
+        <item>Plum</item>
+        <item>Bunga Matahari</item>
+        <item>Pokok</item>
+
+    </string-array>
+
+    <string-array name="page1">
+        <item>Binatang</item>
+        <item>Buah-buahan</item>
+        <item>Sekolah</item>
+    </string-array>
+
+    <string-array name="page2">
+        <item>Tumbuhan</item>
+        <item>Akan Datang</item>
+    </string-array>
+
+
+    <string name="image">Gambar</string>
+    <string name="description">Penerangan</string>
+    <string name="enter_name">Masukkan nama anda</string>
+    <string name="Save">Simpan</string>
+    <string name="start">Mula!!</string>
+
+    <string name="instrucion"><b>Arahan</b>\n\n1.	Permainan ini mengandungi 15 soalan.\n2.	Setiap soalan mempunyai 5 pilihan untuk anda memilih. Pilih salah satu yang betul!\n3.	Masa untuk menjawab setiap soalan adalah 30 saat sahaja. Masa adalah skor!\n4.	Lebih cepat anda, skor yang lebih tinggi anda boleh mendapatkan untuk jawapan yang betul.\n5.	Jika anda menjawab satu soalan dengan jawapan yang betul, markah anda akan dikumpulkan.\n6.	Setiap pemain akan diberikan 5 hati, 1 hati akan ditolakkan jika anda memilih jawapan yang salah.\n7.	Pada masa yang anda kehilangan semua hati, maafkan. PERMAINAN TAMAT!\n8.	Semakin tinggi jumlah markah yang anda dapat, peluang yang lebih tinggi untuk meletakkan anda di papan pemimpin.\n</string>
+
+
+</resources>

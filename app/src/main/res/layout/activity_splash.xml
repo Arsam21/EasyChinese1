@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/spotlight">
+
+    <VideoView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_widthPercent="12%"
+        app:layout_heightPercent="21%"
+        android:id="@+id/videoViewRunning"
+        android:layout_gravity="center_horizontal"
+        app:layout_marginBottomPercent="20%"
+        app:layout_marginRightPercent="33%"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+
+</android.support.percent.PercentRelativeLayout>

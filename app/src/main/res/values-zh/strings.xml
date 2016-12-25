@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">易学华语</string>
+
+
+    <string name="lesson">课程</string>
+    <string name="stroke">笔画</string>
+    <string name="quiz">游戏</string>
+    <string name="reminders">提示</string>
+    <string name="Date">日期</string>
+    <string name="Time">时间</string>
+    <string name="Set">设定</string>
+
+
+    <string-array name="animal">
+        <item>熊</item>
+        <item>鸟</item>
+        <item>猫</item>
+        <item>牛</item>
+        <item>鹿</item>
+        <item>狗</item>
+        <item>驴</item>
+        <item>鸭</item>
+        <item>象</item>
+        <item>鱼</item>
+        <item>鹅</item>
+        <item>马</item>
+        <item>豹</item>
+        <item>狮</item>
+        <item>猴</item>
+        <item>鼠</item>
+        <item>猪</item>
+        <item>兔</item>
+        <item>羊</item>
+        <item>虎</item>
+
+    </string-array>
+
+    <string-array name="fruit">
+        <item>杏</item>
+        <item>蕉</item>
+        <item>椰</item>
+        <item>枣</item>
+        <item>芒</item>
+        <item>瓜</item>
+        <item>橙</item>
+        <item>桃</item>
+        <item>梨</item>
+        <item>柿</item>
+        <item>李</item>
+        <item>柑</item>
+    </string-array>
+
+    <string-array name="school">
+        <item>书</item>
+        <item>椅</item>
+        <item>桌</item>
+        <item>刀</item>
+        <item>灯</item>
+        <item>纸</item>
+        <item>笔</item>
+        <item>钉</item>
+        <item>铃</item>
+        <item>尺</item>
+
+    </string-array>
+
+    <string-array name="plant">
+        <item>竹</item>
+        <item>枫</item>
+        <item>草</item>
+        <item>菊</item>
+        <item>兰</item>
+        <item>叶</item>
+        <item>莲</item>
+        <item>梅</item>
+        <item>葵</item>
+        <item>树</item>
+
+    </string-array>
+
+    <string-array name="page1">
+        <item>动物</item>
+        <item>水果</item>
+        <item>学校</item>
+    </string-array>
+
+    <string-array name="page2">
+        <item>植物</item>
+        <item>敬请期待</item>
+    </string-array>
+
+
+    <string name="image">照片</string>
+    <string name="description">解说</string>
+    <string name="enter_name">输入您的名字</string>
+    <string name="Save">保存</string>
+    <string name="start">开始！</string>
+
+    <string name="instrucion"><b>小提示</b>\n\n1.	这个游戏有15条问题必须作答哦！\n2.	每一题都有5个字让你选择，选出个正确的答案吧！\n3.	每一题只有30秒的时间让你回答，争取时间哦！\n4.	你答的越快，你的分数就越高哦！\n5.	每答对一题问题，你的分数都会累积起来。\n6.	每个玩家都会给予5颗爱心，如果你答错了一题，就少一颗爱心了！\n7.	当你损失了你所有的爱心，抱歉！你完蛋了。\n8.	你的总分越高，越有机会上荣誉榜哦。奋斗吧！孩子。</string>
+
+    <string name="dev">开发人员</string>
+
+
+</resources>
